@@ -1,0 +1,72 @@
+{
+  "language": "ga",
+  "built": "2026-09-23",
+  "candidates": 13545,
+  "shipped": 7243,
+  "ships": "pending",
+  "decided": null,
+  "why": null,
+  "license": null,
+  "conforms": true,
+  "families": 8,
+  "checkable": 7,
+  "knee": 6,
+  "steps": [
+    {
+      "families": 1,
+      "added": "wikimedia",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 2,
+      "added": "internetarchive",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 3,
+      "added": "leipzig",
+      "kept": 6031,
+      "share": 0.445257,
+      "gained": 6031
+    },
+    {
+      "families": 4,
+      "added": "cic.ie",
+      "kept": 6600,
+      "share": 0.487265,
+      "gained": 569
+    },
+    {
+      "families": 5,
+      "added": "gutenberg",
+      "kept": 6981,
+      "share": 0.515393,
+      "gained": 381
+    },
+    {
+      "families": 6,
+      "added": "tatoeba",
+      "kept": 7119,
+      "share": 0.525581,
+      "gained": 138
+    },
+    {
+      "families": 7,
+      "added": "comhar.ie",
+      "kept": 7191,
+      "share": 0.530897,
+      "gained": 72
+    },
+    {
+      "families": 8,
+      "added": "tuairisc.ie",
+      "kept": 7243,
+      "share": 0.534736,
+      "gained": 52
+    }
+  ]
+}
