@@ -12,13 +12,16 @@ collection rather than reuse its record only has to put the file back where the 
 
 | collection | tokens | what it is | where it came from |
 | --- | ---: | --- | --- |
-| `wiki:ga` | 8,008,173 | Irish Wikipedia — modern encyclopedic prose, and the list that proposed the candidates | [gawiki.xml.bz2](https://dumps.wikimedia.org/gawiki/latest/gawiki-latest-pages-articles.xml.bz2) |
-| `ia` | 2,879,955 | Internet Archive Irish books — literature, and the register a newspaper never reaches | [archive-ga](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Irish%22+OR+language%3A%22gle%22%29) |
+| `wiki:ga` | 8,008,173 |  | — |
+| `ia` | 3,333,795 | Internet Archive Irish books — literature, and the register a newspaper never reaches | [archive-ga](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Irish%22+OR+language%3A%22gle%22%29) |
 | `web:cic.ie` | 412,019 |  | fetched from `cic.ie`, recorded in `searched.tsv` |
-| `lz:gle_newscrawl_2014_300K` | 148,104 | Leipzig gle_newscrawl_2014_300K — modern news, cited by the page each sentence came from | [gle_newscrawl_2014_300K](https://downloads.wortschatz-leipzig.de/corpora/gle_newscrawl_2014_300K.tar.gz) |
+| `web:tuairisc.ie` | 225,801 |  | fetched from `tuairisc.ie`, recorded in `searched.tsv` |
+| `web:nos.ie` | 173,101 |  | fetched from `nos.ie`, recorded in `searched.tsv` |
+| `lz:gle_newscrawl_2014_300K` | 148,104 |  | — |
 | `gut` | 84,868 | Project Gutenberg Irish, 4 texts | [gutenberg-ga](https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv) |
-| `web:tuairisc.ie` | 17,964 |  | fetched from `tuairisc.ie`, recorded in `searched.tsv` |
-| `tat` | 10,514 | Tatoeba Irish — contemporary and conversational, and small | [gle_sentences.tsv](https://downloads.tatoeba.org/exports/per_language/gle/gle_sentences.tsv.bz2) |
+| `web:meoneile.ie` | 83,306 |  | fetched from `meoneile.ie`, recorded in `searched.tsv` |
+| `web:peig.ie` | 20,659 |  | fetched from `peig.ie`, recorded in `searched.tsv` |
+| `tat` | 10,514 |  | — |
 | `web:comhar.ie` | 2,306 |  | fetched from `comhar.ie`, recorded in `searched.tsv` |
 
 Totals are playable tokens after folding, not bytes. A collection missing from this table was

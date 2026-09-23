@@ -5,8 +5,8 @@ The Irish word list, and the evidence for every word in it.
 Built by [`blinkered-attestation`](https://github.com/blinkered/blinkered-attestation). The rule,
 the evidence format and the reasoning live there; what lives here is Irish.
 
-**7,243 of 13,545 candidates proved, 53.5%**, across 8 independent
-families, 7 of which a stranger could check by fetching.
+**8,585 of 13,545 candidates proved, 63.4%**, across 11 independent
+families, 10 of which a stranger could check by fetching.
 
 ## What is in this repository
 
@@ -38,12 +38,13 @@ where to get it again, which is what makes the downloads disposable.
 ## What is particular to Irish
 
 **The families.** Irish Wikipedia (which also ordered the candidates), a 2014 Leipzig news crawl,
-Tatoeba, four Project Gutenberg texts, the Internet Archive's Irish shelf, and three Irish-language
-sites fetched directly (`cic.ie`, `comhar.ie` and `tuairisc.ie`). There is no Irish Wikisource and
+Tatoeba, four Project Gutenberg texts, the Internet Archive's Irish shelf, and six Irish-language
+sites fetched directly (`nos.ie`, `tuairisc.ie`, `cic.ie`, `meoneile.ie`, `peig.ie` and
+`comhar.ie`). There is no Irish Wikisource and
 no Irish translation on eBible.
 
 **English is the risk, and it is mostly contained.** Most of what the Archive catalogues as Irish
-is about Ireland and written in English: only 6 of the 94 texts read cleared the legibility floor.
+is about Ireland and written in English: only 7 of the 192 texts read cleared the legibility floor.
 The publishers were chosen to write in Irish throughout, rather than RTÉ or the national papers,
 whose Irish pages share a domain with their English ones. The candidate list, validated against
 en.wiktionary's Irish categories, still carries a few English strings (THE, FROM, HAS, DID, EACH),
@@ -53,9 +54,11 @@ too (SIN, MAR, AIR, FEAR, TEACH, SEA, FILL); a few dozen are English that Irish 
 **The fada is a letter.** Á, É, Í, Ó and Ú are tiles of their own, as they are in Irish, so SEAN
 and SEÁN are different words here, and every one of the five spells some shipped word.
 
-**Where the drop list points.** 4,416 of the 4,773 words one family short are attested by the
-Archive and Wikipedia and nothing else. More Irish-language books or long-form prose would clear
-much of that; the harvest had reached three of its six publishers when this was built.
+**Where the drop list points.** The first build, with three publishers, kept 53.5%; this one, with
+all six, keeps 63.4%. 3,283 of the 3,659 words still one family short are attested by the Archive
+and Wikipedia and nothing else: ABACHT, ÁBHACHT. More Irish-language books or long-form prose
+would clear much of that; Comhar, the literary magazine, gave the harvest only eleven pages, so a
+deeper fetch of it is the obvious next step.
 
 ## Rebuilding
 

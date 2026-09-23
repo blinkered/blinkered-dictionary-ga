@@ -2,14 +2,14 @@
   "language": "ga",
   "built": "2026-09-23",
   "candidates": 13545,
-  "shipped": 7243,
+  "shipped": 8585,
   "ships": "pending",
   "decided": null,
   "why": null,
   "license": null,
   "conforms": true,
-  "families": 8,
-  "checkable": 7,
+  "families": 11,
+  "checkable": 10,
   "knee": 6,
   "steps": [
     {
@@ -35,38 +35,59 @@
     },
     {
       "families": 4,
-      "added": "cic.ie",
-      "kept": 6600,
-      "share": 0.487265,
-      "gained": 569
+      "added": "nos.ie",
+      "kept": 7156,
+      "share": 0.528313,
+      "gained": 1125
     },
     {
       "families": 5,
-      "added": "gutenberg",
-      "kept": 6981,
-      "share": 0.515393,
-      "gained": 381
+      "added": "tuairisc.ie",
+      "kept": 7803,
+      "share": 0.57608,
+      "gained": 647
     },
     {
       "families": 6,
-      "added": "tatoeba",
-      "kept": 7119,
-      "share": 0.525581,
-      "gained": 138
+      "added": "gutenberg",
+      "kept": 8066,
+      "share": 0.595496,
+      "gained": 263
     },
     {
       "families": 7,
-      "added": "comhar.ie",
-      "kept": 7191,
-      "share": 0.530897,
-      "gained": 72
+      "added": "cic.ie",
+      "kept": 8275,
+      "share": 0.610927,
+      "gained": 209
     },
     {
       "families": 8,
-      "added": "tuairisc.ie",
-      "kept": 7243,
-      "share": 0.534736,
-      "gained": 52
+      "added": "meoneile.ie",
+      "kept": 8411,
+      "share": 0.620967,
+      "gained": 136
+    },
+    {
+      "families": 9,
+      "added": "peig.ie",
+      "kept": 8498,
+      "share": 0.62739,
+      "gained": 87
+    },
+    {
+      "families": 10,
+      "added": "tatoeba",
+      "kept": 8549,
+      "share": 0.631155,
+      "gained": 51
+    },
+    {
+      "families": 11,
+      "added": "comhar.ie",
+      "kept": 8585,
+      "share": 0.633813,
+      "gained": 36
     }
   ]
 }

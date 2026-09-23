@@ -8,9 +8,9 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 13,545. Shipped: 7,243.
+Candidates: 13,545. Shipped: 8,585.
 
-Of 8 families, **7 can be checked by fetching** —
+Of 11 families, **10 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 1 are crawls
 somebody else made, whose locators record where they found the sentence; the document that holds
 it is their published corpus, not the web.
@@ -20,10 +20,13 @@ it is their published corpus, not the web.
 | 1 | `wikimedia` | 0 | 0.0% | — |
 | 2 | `internetarchive` | 0 | 0.0% | — |
 | 3 | `leipzig` | 6,031 | 44.5% | +6,031 |
-| 4 | `cic.ie` | 6,600 | 48.7% | +569 |
-| 5 | `gutenberg` | 6,981 | 51.5% | +381 |
-| 6 | `tatoeba` | 7,119 | 52.6% | +138 |
-| 7 | `comhar.ie` | 7,191 | 53.1% | +72 |
-| 8 | `tuairisc.ie` | 7,243 | 53.5% | +52 |
+| 4 | `nos.ie` | 7,156 | 52.8% | +1,125 |
+| 5 | `tuairisc.ie` | 7,803 | 57.6% | +647 |
+| 6 | `gutenberg` | 8,066 | 59.5% | +263 |
+| 7 | `cic.ie` | 8,275 | 61.1% | +209 |
+| 8 | `meoneile.ie` | 8,411 | 62.1% | +136 |
+| 9 | `peig.ie` | 8,498 | 62.7% | +87 |
+| 10 | `tatoeba` | 8,549 | 63.1% | +51 |
+| 11 | `comhar.ie` | 8,585 | 63.4% | +36 |
 
-**Diminishing returns from family 6** (`tatoeba`, +138), where a family first added less than a twentieth of what the best one did.
+**Diminishing returns from family 6** (`gutenberg`, +263), where a family first added less than a twentieth of what the best one did.
