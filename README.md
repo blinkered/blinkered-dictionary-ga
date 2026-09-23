@@ -47,9 +47,10 @@ no Irish translation on eBible.
 is about Ireland and written in English: only 7 of the 192 texts read cleared the legibility floor.
 The publishers were chosen to write in Irish throughout, rather than RTÉ or the national papers,
 whose Irish pages share a domain with their English ones. The candidate list, validated against
-en.wiktionary's Irish categories, still carries a few English strings (THE, FROM, HAS, DID, EACH),
-and about 70 shipped words are in the top 3,000 of the English list. Most of those are Irish words
-too (SIN, MAR, AIR, FEAR, TEACH, SEA, FILL); a few dozen are English that Irish text quoted.
+en.wiktionary's Irish categories, still carries a few English strings (THE, FROM, HAS, DID, EACH).
+Measured: 317 of the 8,585 shipped words (3.7%) are also English candidates, and 71 are in the top
+3,000 of the English list. Most of those 71 are Irish words too (SIN, MAR, AIR, FEAR, TEACH, SEA);
+by eye about a dozen are plain English that Irish text quoted (THE, FROM, BOTH, EACH, HIM).
 
 **The fada is a letter.** Á, É, Í, Ó and Ú are tiles of their own, as they are in Irish, so SEAN
 and SEÁN are different words here, and every one of the five spells some shipped word.
